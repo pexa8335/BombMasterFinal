@@ -1,0 +1,34 @@
+D:\filemoi (2)\filemoi\ServerSocket\bin\Debug\net9.0-windows\ServerSocket.exe
+D:\filemoi (2)\filemoi\ServerSocket\bin\Debug\net9.0-windows\ServerSocket.deps.json
+D:\filemoi (2)\filemoi\ServerSocket\bin\Debug\net9.0-windows\ServerSocket.runtimeconfig.json
+D:\filemoi (2)\filemoi\ServerSocket\bin\Debug\net9.0-windows\ServerSocket.dll
+D:\filemoi (2)\filemoi\ServerSocket\bin\Debug\net9.0-windows\ServerSocket.pdb
+D:\filemoi (2)\filemoi\ServerSocket\obj\Debug\net9.0-windows\ServerSocket.Server.resources
+D:\filemoi (2)\filemoi\ServerSocket\obj\Debug\net9.0-windows\ServerSocket.csproj.GenerateResource.cache
+D:\filemoi (2)\filemoi\ServerSocket\obj\Debug\net9.0-windows\ServerSocket.GeneratedMSBuildEditorConfig.editorconfig
+D:\filemoi (2)\filemoi\ServerSocket\obj\Debug\net9.0-windows\ServerSocket.AssemblyInfoInputs.cache
+D:\filemoi (2)\filemoi\ServerSocket\obj\Debug\net9.0-windows\ServerSocket.AssemblyInfo.cs
+D:\filemoi (2)\filemoi\ServerSocket\obj\Debug\net9.0-windows\ServerSocket.csproj.CoreCompileInputs.cache
+D:\filemoi (2)\filemoi\ServerSocket\obj\Debug\net9.0-windows\ServerSocket.sourcelink.json
+D:\filemoi (2)\filemoi\ServerSocket\obj\Debug\net9.0-windows\ServerSocket.dll
+D:\filemoi (2)\filemoi\ServerSocket\obj\Debug\net9.0-windows\refint\ServerSocket.dll
+D:\filemoi (2)\filemoi\ServerSocket\obj\Debug\net9.0-windows\ServerSocket.pdb
+D:\filemoi (2)\filemoi\ServerSocket\obj\Debug\net9.0-windows\ServerSocket.genruntimeconfig.cache
+D:\filemoi (2)\filemoi\ServerSocket\obj\Debug\net9.0-windows\ref\ServerSocket.dll
+C:\Users\kwebl\Source\Repos\Pexa\ServerSocket\bin\Debug\net9.0-windows\ServerSocket.exe
+C:\Users\kwebl\Source\Repos\Pexa\ServerSocket\bin\Debug\net9.0-windows\ServerSocket.deps.json
+C:\Users\kwebl\Source\Repos\Pexa\ServerSocket\bin\Debug\net9.0-windows\ServerSocket.runtimeconfig.json
+C:\Users\kwebl\Source\Repos\Pexa\ServerSocket\bin\Debug\net9.0-windows\ServerSocket.dll
+C:\Users\kwebl\Source\Repos\Pexa\ServerSocket\bin\Debug\net9.0-windows\ServerSocket.pdb
+C:\Users\kwebl\Source\Repos\Pexa\ServerSocket\obj\Debug\net9.0-windows\ServerSocket.Server.resources
+C:\Users\kwebl\Source\Repos\Pexa\ServerSocket\obj\Debug\net9.0-windows\ServerSocket.csproj.GenerateResource.cache
+C:\Users\kwebl\Source\Repos\Pexa\ServerSocket\obj\Debug\net9.0-windows\ServerSocket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kwebl\Source\Repos\Pexa\ServerSocket\obj\Debug\net9.0-windows\ServerSocket.AssemblyInfoInputs.cache
+C:\Users\kwebl\Source\Repos\Pexa\ServerSocket\obj\Debug\net9.0-windows\ServerSocket.AssemblyInfo.cs
+C:\Users\kwebl\Source\Repos\Pexa\ServerSocket\obj\Debug\net9.0-windows\ServerSocket.csproj.CoreCompileInputs.cache
+C:\Users\kwebl\Source\Repos\Pexa\ServerSocket\obj\Debug\net9.0-windows\ServerSocket.sourcelink.json
+C:\Users\kwebl\Source\Repos\Pexa\ServerSocket\obj\Debug\net9.0-windows\ServerSocket.dll
+C:\Users\kwebl\Source\Repos\Pexa\ServerSocket\obj\Debug\net9.0-windows\refint\ServerSocket.dll
+C:\Users\kwebl\Source\Repos\Pexa\ServerSocket\obj\Debug\net9.0-windows\ServerSocket.pdb
+C:\Users\kwebl\Source\Repos\Pexa\ServerSocket\obj\Debug\net9.0-windows\ServerSocket.genruntimeconfig.cache
+C:\Users\kwebl\Source\Repos\Pexa\ServerSocket\obj\Debug\net9.0-windows\ref\ServerSocket.dll
